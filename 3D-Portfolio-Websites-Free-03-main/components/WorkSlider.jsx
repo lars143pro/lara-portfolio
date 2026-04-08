@@ -12,15 +12,15 @@ const workSlides = {
     {
       // SLIDE 1: SHORT FORM REELS
       images: [
-        { title: "Reel 1", path: "/thumb1.jpg", link: "https://laranerona.my.canva.site/" },
-        { title: "Reel 2", path: "/thumb1.jpg", link: "https://laranerona.my.canva.site/" }, // Add more here!
+        { title: "Reel 1", path: "/thumb1.jpg", link: "https://laraneronaa.my.canva.site/" },
+        { title: "Reel 2", path: "/thumb1.jpg", link: "https://laraneronaa.my.canva.site/" }, // Add more here!
       ],
     },
     {
       // SLIDE 2: PUBMAT
       images: [
-        { title: "PUBMAT", path: "/thumb2.jpg", link: "https://laranerona.my.canva.site/" },
-        { title: "BRANDING", path: "/thumb2.jpg", link: "https://laranerona.my.canva.site/" },
+        { title: "PUBMAT", path: "/thumb2.jpg", link: "https://laraneronaa.my.canva.site/" },
+        { title: "BRANDING", path: "/thumb2.jpg", link: "https://laraneronaa.my.canva.site/" },
       ],
     },
   ],
