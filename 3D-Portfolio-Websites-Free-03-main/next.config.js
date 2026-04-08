@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export', // Add this line
   reactStrictMode: true,
   swcMinify: true,
   transpilePackages: ['react-icons'],
   images: {
-    // This allows Next.js to display your thumbnails properly on Netlify
     unoptimized: true,
   },
 }
