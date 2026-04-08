@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
 
       {/* metadata */}
       <Head>
-        <title>Lara Nerona | Creative Editor & E-commerce Admin</title>
+        <title>Lara Nerona | Creative Editor & Graphic Designer</title>
         <link rel="icon" href="/favicon.jpg" />
         <meta
           name="description"
